@@ -1,0 +1,11 @@
+{
+  "name": "git-tutorial",
+  "version": "1.0.0",
+  "description": "git",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "nandharagav",
+  "license": "ISC"
+}
